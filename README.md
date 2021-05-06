@@ -46,6 +46,6 @@ Here are some common questions:
 
 * What is special about this timer? Most timers do not allow you to specify which sounds are played when a bout starts and ends; this one does. For yoga and meditation you may want to choose relaxing sounds; for HIT workouts instead you choose something fast.
 * Does the timer work on other OS than macOS? Yes, but you need a command line tool to play the sound files. In `interval_timer_sox.py` I use the free cross-platform audio software SoX. Just install SoX before you use it.
-* On macOS, which command is used to play the sound? `afplay`(built-in utility)
+* On macOS, which command is used to play the sound? `afplay` (built-in utility)
 * Does the timer work with Python2.7? I did not test it yet, but I assume the answer is yes.
 * Can I contribute? Sure, let me know if you have a concrete suggestion or feature request.
