@@ -1,4 +1,4 @@
-## Command Line Interval Timer
+## Introduction
 This repository contains an interval timer for the command line <b>that allows you to specify your own sounds</b> and many other parameters.
 
 
@@ -38,7 +38,7 @@ The timer has seven parameters that all come with defaults (in brackets):
 * prepare-sound-file: sound file that is played before each bout
 * bout-end-sound-file: sound file that is played after `bout-length` is over
 
-<b>All times are in seconds.</b>
+All times are in seconds.
 
 
 ## FAQ
